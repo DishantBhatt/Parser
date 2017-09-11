@@ -1,6 +1,6 @@
 /**
-*  Dishant Bhatt, cssc1029, 818082740
-*  James Lawrence, 817812210
+*  Dishant Bhatt, cssc1029
+*  James Lawrence
 *  CS530, Spring 2017
 *  Assignment #3, Parser for Assignments and Expressions
 *  parser.cpp
