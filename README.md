@@ -7,11 +7,17 @@ Assignment #3, Parser for Assignments and Expressions
 README.md
 
 Files:
+
 parser.cpp
+
 Makefile
+
 input: in.txt
+
 output: out.txt
+
 README.txt
+
 
 Compile Instructions:
 	In order to compile the program, simply type "make" into the command line and press enter.
