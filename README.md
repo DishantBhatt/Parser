@@ -36,5 +36,5 @@ If there are unbalanced parenthesis the statement is invalid.
 If there is a semi-colon in the middle of the statement or if there is no ending semi-colon then the statement is invalid.
 If a statment ends with an operand, regardless of the presence of a ending semi-colon, the statment is invalid. 
 
-As far as we know, there are no deficiencies or bugs within the program. While we were able to validate the expressions and assignments for single pairs of parenthesis, we were unable to validate for nested parenthesis as part of the extra credit assignment. 
+As far as we know, there are no deficiencies or bugs within the program. While we were able to validate the expressions and assignments for single pairs of parenthesis, we were able to validate for nested parenthesis as part of the extra credit assignment. 
 
